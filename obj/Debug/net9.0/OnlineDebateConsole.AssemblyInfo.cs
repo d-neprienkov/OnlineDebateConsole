@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OnlineDebateConsole")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+06bcd335c0ccd2fde79c4830d3d225fe04a19a72")]
 [assembly: System.Reflection.AssemblyProductAttribute("OnlineDebateConsole")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OnlineDebateConsole")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

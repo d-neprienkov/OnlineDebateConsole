@@ -21,3 +21,4 @@ C:\Users\35989\OnlineDebateConsole\obj\Debug\net9.0\refint\OnlineDebateConsole.d
 C:\Users\35989\OnlineDebateConsole\obj\Debug\net9.0\OnlineDebateConsole.pdb
 C:\Users\35989\OnlineDebateConsole\obj\Debug\net9.0\OnlineDebateConsole.genruntimeconfig.cache
 C:\Users\35989\OnlineDebateConsole\obj\Debug\net9.0\ref\OnlineDebateConsole.dll
+C:\Users\35989\OnlineDebateConsole\obj\Debug\net9.0\OnlineDebateConsole.sourcelink.json
